@@ -1,0 +1,16 @@
+{
+  "name": "zkittle01",
+  "theme": "syntax",
+  "version": "0.2.0",
+  "description": "สมัคร lsm99 ทางไลน์ ล่าสุด วอเลท เว็บตรง ฝากถอนไม่มีขั้นต่ำ",
+  "keywords": [
+    "สมัคร lsm99 ทางไลน์",
+    "lsm99 ฝาก-ถอน ผ่านไลน์" ,
+    "lsm99 ทางเข้า"
+  ],
+  "repository": "https://github.com/atsbtg300/zkittle01",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
